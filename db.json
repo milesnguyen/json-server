@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "name": " Kiến Thức Nhập Môn IT",
+      "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+      "id": 1
+    },
+    {
+      "name": "HTML-CSS từ Zero đến Hero",
+      "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+      "id": 2
+    },
+    {
+      "name": " Lập Trình JavaScript Cơ Bản",
+      "description": "Học Javascript cơ bản phù hợp cho người chưa từng học lập trình. Với hơn 100 bài học và có bài tập thực hành sau mỗi bài học.",
+      "id": 3
+    },
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 4
+    },
+    {
+      "name": "Làm việc với Terminal & Ubuntu",
+      "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web",
+      "id": 5
+    }
+  ]
+}
